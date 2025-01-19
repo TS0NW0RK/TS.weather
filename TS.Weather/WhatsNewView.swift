@@ -36,7 +36,7 @@ struct WhatsNewView: View {
                 Spacer()
                 
                 // Ссылка на GitHub
-                Link(destination: URL(string: "https://github.com/yourusername/TS.Weather2")!) {
+                Link(destination: URL(string: "https://github.com/TS0NW0RK/TS.weather")!) {
                     HStack {
                         Image(systemName: "link")
                             .font(.system(size: 18, weight: .bold))
