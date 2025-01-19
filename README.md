@@ -1,4 +1,4 @@
- # TS.Weather 🌤️
+# TS.Weather 🌤️
 
 [![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS-blue.svg)](https://developer.apple.com/ios/)
@@ -16,7 +16,17 @@
 
 ---
 
+## License 📄
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 # TS.Weather 🌤️ (Русская версия)
+
+[![Swift](https://img.shields.io/badge/Swift-5.5-orange.svg)](https://swift.org)
+[![Platform](https://img.shields.io/badge/Platform-iOS-blue.svg)](https://developer.apple.com/ios/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 **TS.Weather** — это стильное и интуитивно понятное приложение для просмотра погоды, разработанное на Swift и SwiftUI. Оно предоставляет актуальную информацию о погоде, подробный прогноз на 5 дней и красивые анимации.
 
@@ -32,4 +42,4 @@
 
 ## Лицензия 📄
 
-Этот проект лицензирован под MIT License. Подробнее см. в файле [LICENSE](LICENSE)
+Этот проект лицензирован под MIT License. Подробнее см. в файле [LICENSE](LICENSE).
